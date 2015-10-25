@@ -1,0 +1,8 @@
+<meta>
+	<info author="MoDeR2014" version="1.0" type="script" name="Twitter News" />
+	
+	<oop>true</oop>
+	
+	<script src="Client.lua" type="client" cache="false" />
+	<script src="Server.lua" type="server" />
+</meta>
